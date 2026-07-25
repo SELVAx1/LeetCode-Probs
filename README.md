@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0043-multiply-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3536-maximum-product-of-two-digits) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0043-multiply-strings) |
 | [0126-word-ladder-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0126-word-ladder-ii) |
 | [0316-remove-duplicate-letters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0394-decode-string) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3775-reverse-words-with-same-vowel-count) |
