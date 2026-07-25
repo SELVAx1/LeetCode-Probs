@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3536-maximum-product-of-two-digits](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
