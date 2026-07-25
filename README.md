@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0126-word-ladder-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0205-isomorphic-strings) |
 | [0454-4sum-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0454-4sum-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1590-make-sum-divisible-by-p) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0043-multiply-strings) |
 | [0126-word-ladder-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0126-word-ladder-ii) |
+| [0205-isomorphic-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0443-string-compression) |
