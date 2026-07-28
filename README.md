@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0126-word-ladder-ii) |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
@@ -83,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
