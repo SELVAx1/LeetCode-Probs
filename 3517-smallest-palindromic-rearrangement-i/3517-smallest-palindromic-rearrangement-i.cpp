@@ -12,7 +12,7 @@ public:
             char ch = i+'a';
             while(vec[i] >= 2){
                 frnt.push_back(ch);
-                back.insert(0,1,ch);
+                back.push_back(ch);
                 vec[i] -= 2;
             }
             if(vec[i] == 1){
@@ -20,6 +20,7 @@ public:
             }
         }
         if(mid!='#') frnt.push_back(mid);
+        reverse(back.begin(),back.end());
         return frnt+back;
     }
 };
