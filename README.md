@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0443-string-compression) |
 | [0848-shifting-letters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0848-shifting-letters) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1813-sentence-similarity-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1813-sentence-similarity-iii) |
 | [2381-shifting-letters-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2381-shifting-letters-ii) |
