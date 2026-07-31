@@ -8,9 +8,9 @@ public:
         sort(freq.begin(), freq.end(), greater<int>());
         int ans = 0, sum = 1;
         for(int i = 0; i < 26; i++){
-            ans += (sum*freq[i]);
-            if((i+1)%8 == 0)
+            if(i!=0 && i%8 == 0)
                 sum += 1;
+            ans += (sum*freq[i]);
         }
         return ans;
     }
