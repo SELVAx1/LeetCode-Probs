@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0443-string-compression) |
+| [0583-delete-operation-for-two-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0583-delete-operation-for-two-strings) |
 | [0848-shifting-letters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0848-shifting-letters) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0225-implement-stack-using-queues) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
