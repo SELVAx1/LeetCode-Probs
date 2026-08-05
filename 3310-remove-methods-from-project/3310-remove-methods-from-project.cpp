@@ -29,7 +29,7 @@ public:
         vector<int> ans;
         if(flg){
             for(int i = 0; i < n; i++){
-                infec[i] = 1;
+                if(!infec[i]) infec[i] = 1;
             }
         }
         for(int i = 0; i < n; i++){
