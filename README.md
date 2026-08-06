@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0057-insert-interval) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
