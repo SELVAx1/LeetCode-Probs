@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0043-multiply-strings) |
 | [0396-rotate-function](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1813-sentence-similarity-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1813-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2381-shifting-letters-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2381-shifting-letters-ii) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0316-remove-duplicate-letters) |
 | [0942-di-string-match](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0212-word-search-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
