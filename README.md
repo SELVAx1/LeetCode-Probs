@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3698-split-array-with-minimum-difference](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Enumeration
 |  |
