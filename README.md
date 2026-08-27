@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0084-largest-rectangle-in-histogram) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
