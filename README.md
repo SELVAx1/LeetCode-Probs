@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0043-multiply-strings) |
 | [0396-rotate-function](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
 | [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
 | [0848-shifting-letters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0867-transpose-matrix) |
 | [0942-di-string-match](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0942-di-string-match) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0454-4sum-ii) |
+| [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1590-make-sum-divisible-by-p) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
