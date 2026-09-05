@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0396-rotate-function) |
 | [0454-4sum-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0485-max-consecutive-ones) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0454-4sum-ii) |
 | [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0179-largest-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [0942-di-string-match](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0942-di-string-match) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2826-sorting-three-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2826-sorting-three-groups) |
