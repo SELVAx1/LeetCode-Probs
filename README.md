@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0212-word-search-ii) |
 | [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0886-possible-bipartition) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0126-word-ladder-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
