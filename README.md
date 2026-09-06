@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
