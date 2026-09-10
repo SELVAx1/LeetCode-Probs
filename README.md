@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -425,4 +426,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0881-boats-to-save-people) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
