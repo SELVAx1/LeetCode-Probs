@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3026-maximum-good-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3282-reach-end-of-array-with-max-score) |
+| [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3698-split-array-with-minimum-difference](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3026-maximum-good-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
