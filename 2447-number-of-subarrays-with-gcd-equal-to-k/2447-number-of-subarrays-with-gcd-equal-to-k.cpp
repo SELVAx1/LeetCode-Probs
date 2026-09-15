@@ -9,6 +9,9 @@ public:
                 if(hcf == k){
                     cnt++;
                 }
+                if(hcf < k){
+                    break;
+                }
             }
         }
         return cnt;
