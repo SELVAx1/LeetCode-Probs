@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2090-k-radius-subarray-averages) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2295-replace-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2295-replace-elements-in-an-array) |
 | [2381-shifting-letters-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2381-shifting-letters-ii) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2826-sorting-three-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2826-sorting-three-groups) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1590-make-sum-divisible-by-p) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2295-replace-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2295-replace-elements-in-an-array) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2295-replace-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3775-reverse-words-with-same-vowel-count) |
