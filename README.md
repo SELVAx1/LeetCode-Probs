@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1765-map-of-highest-peak](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1765-map-of-highest-peak) |
 | [1813-sentence-similarity-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1813-sentence-similarity-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2295-replace-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2295-replace-elements-in-an-array) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2381-shifting-letters-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2381-shifting-letters-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3026-maximum-good-subarray-sum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2826-sorting-three-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2826-sorting-three-groups) |
 ## Bit Manipulation
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2090-k-radius-subarray-averages) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
