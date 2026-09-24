@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0043-multiply-strings) |
 | [0396-rotate-function](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0780-reaching-points](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0780-reaching-points) |
 | [0836-rectangle-overlap](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
 | [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
@@ -481,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0836-rectangle-overlap) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0780-reaching-points) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0780-reaching-points) |
 <!---LeetCode Topics End-->
