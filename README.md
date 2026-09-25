@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2381-shifting-letters-ii) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2938-separate-black-and-white-balls](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
+| [2938-separate-black-and-white-balls](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3282-reach-end-of-array-with-max-score) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0942-di-string-match) |
 | [1813-sentence-similarity-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1813-sentence-similarity-iii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2938-separate-black-and-white-balls](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2938-separate-black-and-white-balls) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
