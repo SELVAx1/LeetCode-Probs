@@ -1,7 +1,7 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        map<string, string> mpp;
+        unordered_map<string, string> mpp;
         for(auto& vec : knowledge){
             mpp[vec[0]] = vec[1];
         }
