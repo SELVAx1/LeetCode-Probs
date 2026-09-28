@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3026-maximum-good-subarray-sum) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3282-reach-end-of-array-with-max-score) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3026-maximum-good-subarray-sum) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
