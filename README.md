@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2090-k-radius-subarray-averages) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2295-replace-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2295-replace-elements-in-an-array) |
 | [2381-shifting-letters-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2381-shifting-letters-ii) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1765-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0940-distinct-subsequences-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2826-sorting-three-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2826-sorting-three-groups) |
 ## String Matching
 |  |
@@ -513,4 +516,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
