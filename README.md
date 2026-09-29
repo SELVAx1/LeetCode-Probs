@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0780-reaching-points) |
 | [0836-rectangle-overlap](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1813-sentence-similarity-iii) |
