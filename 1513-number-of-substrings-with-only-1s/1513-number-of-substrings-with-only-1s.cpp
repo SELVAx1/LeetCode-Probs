@@ -16,4 +16,20 @@ public:
         }
         return ans%MOD;
     }
+    /*
+    int numSub(string s) {
+        long long cou=0;
+        long long cur=0;
+        long long MOD=1e9+7;
+        for(char c : s){
+            if(c == '1'){
+                cur++;
+                cou+=cur;
+            }else{
+                cur = 0;
+            }
+        }
+        return cou%MOD;
+    }
+    */
 };
