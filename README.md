@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0076-minimum-window-substring) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0306-additive-number) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0435-non-overlapping-intervals) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
