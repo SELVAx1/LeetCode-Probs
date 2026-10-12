@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2826-sorting-three-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2826-sorting-three-groups) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3026-maximum-good-subarray-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2295-replace-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2295-replace-elements-in-an-array) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2938-separate-black-and-white-balls](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
