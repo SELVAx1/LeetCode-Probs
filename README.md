@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2090-k-radius-subarray-averages) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2295-replace-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2295-replace-elements-in-an-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2938-separate-black-and-white-balls](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2938-separate-black-and-white-balls) |
