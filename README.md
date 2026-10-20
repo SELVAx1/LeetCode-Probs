@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3698-split-array-with-minimum-difference](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Design
 |  |
 | ------- |
