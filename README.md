@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1765-map-of-highest-peak](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1765-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1765-map-of-highest-peak](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1765-map-of-highest-peak) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1254-number-of-closed-islands](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
