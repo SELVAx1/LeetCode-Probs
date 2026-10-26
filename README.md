@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3698-split-array-with-minimum-difference](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1765-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
