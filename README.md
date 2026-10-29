@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0740-delete-and-earn) |
 | [0835-image-overlap](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
 | [0848-shifting-letters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0848-shifting-letters) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0454-4sum-ii) |
+| [0740-delete-and-earn](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0740-delete-and-earn) |
 | [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0740-delete-and-earn) |
 | [0940-distinct-subsequences-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0940-distinct-subsequences-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2826-sorting-three-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2826-sorting-three-groups) |
