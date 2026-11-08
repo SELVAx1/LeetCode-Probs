@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1068-product-sales-analysis-i) |
 | [1393-capital-gainloss](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1393-capital-gainloss) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1693-daily-leads-and-partners) |
 | [1795-rearrange-products-table](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1795-rearrange-products-table) |
