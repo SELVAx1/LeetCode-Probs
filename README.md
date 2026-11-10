@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3665-twisted-mirror-path-count](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3693-climbing-stairs-ii) |
 | [3698-split-array-with-minimum-difference](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2826-sorting-three-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2826-sorting-three-groups) |
 | [3665-twisted-mirror-path-count](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String Matching
 |  |
