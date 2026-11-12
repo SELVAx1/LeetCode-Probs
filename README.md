@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1693-daily-leads-and-partners) |
 | [1795-rearrange-products-table](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1795-rearrange-products-table) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Strongly Connected Component
 |  |
