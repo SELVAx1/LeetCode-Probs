@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3026-maximum-good-subarray-sum) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
