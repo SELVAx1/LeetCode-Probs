@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0503-next-greater-element-ii) |
+| [0565-array-nesting](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0547-number-of-provinces) |
+| [0565-array-nesting](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0565-array-nesting) |
 | [0733-flood-fill](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0797-all-paths-from-source-to-target) |
