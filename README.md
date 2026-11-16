@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1927-sum-game) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SELVAx1/LeetCode-Probs/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2381-shifting-letters-ii) |
 | [2405-optimal-partition-of-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2405-optimal-partition-of-string) |
 | [2409-count-days-spent-together](https://github.com/SELVAx1/LeetCode-Probs/tree/master/2409-count-days-spent-together) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1260-shift-2d-grid) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SELVAx1/LeetCode-Probs/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3498-reverse-degree-of-a-string) |
