@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
@@ -668,4 +670,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1092-shortest-common-supersequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
