@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3026-maximum-good-subarray-sum) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1092-shortest-common-supersequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2826-sorting-three-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2826-sorting-three-groups) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3882-minimum-xor-path-in-a-grid) |
