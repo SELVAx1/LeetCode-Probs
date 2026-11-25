@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0480-sliding-window-median](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0506-relative-ranks) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0454-4sum-ii) |
+| [0480-sliding-window-median](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0480-sliding-window-median) |
 | [0740-delete-and-earn](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0767-reorganize-string) |
 | [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0480-sliding-window-median](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0767-reorganize-string) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1004-max-consecutive-ones-iii) |
@@ -723,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0239-sliding-window-maximum) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
