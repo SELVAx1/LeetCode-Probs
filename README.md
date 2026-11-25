@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0643-maximum-average-subarray-i) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0239-sliding-window-maximum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0239-sliding-window-maximum) |
 ## Trie
 |  |
 | ------- |
@@ -714,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
