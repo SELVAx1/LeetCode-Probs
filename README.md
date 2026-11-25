@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1267-count-servers-that-communicate) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -632,11 +633,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0102-binary-tree-level-order-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0102-binary-tree-level-order-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -707,4 +710,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1352-product-of-the-last-k-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
