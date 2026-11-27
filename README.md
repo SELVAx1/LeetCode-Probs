@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0942-di-string-match) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1020-number-of-enclaves](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1020-number-of-enclaves) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0767-reorganize-string) |
 | [0840-magic-squares-in-grid](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0840-magic-squares-in-grid) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1331-rank-transform-of-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1590-make-sum-divisible-by-p) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/0658-find-k-closest-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1267-count-servers-that-communicate](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1267-count-servers-that-communicate) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
