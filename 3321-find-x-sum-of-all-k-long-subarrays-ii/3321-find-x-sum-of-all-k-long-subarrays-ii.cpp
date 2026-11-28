@@ -19,14 +19,7 @@ public:
                 top.insert(*rest.begin());
                 rest.erase(rest.begin());
             }else{
-                if(top.rbegin()->first < rest.begin()->first){
-                    sum -= (1LL * top.rbegin()->first * top.rbegin()->second);
-                    sum += (1LL * rest.begin()->first * rest.begin()->second);
-                    top.insert(*rest.begin());
-                    rest.insert(*top.rbegin());
-                    top.erase(prev(top.end()));
-                    rest.erase(rest.begin());
-                }else if(top.rbegin()->first == rest.begin()->first && top.rbegin()->second < rest.begin()->second){
+                if(!top.empty() && !rest.empty() && cmp(*rest.begin(), *top.rbegin())){
                     sum -= (1LL * top.rbegin()->first * top.rbegin()->second);
                     sum += (1LL * rest.begin()->first * rest.begin()->second);
                     top.insert(*rest.begin());
