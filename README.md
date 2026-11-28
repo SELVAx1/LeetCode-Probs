@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3026-maximum-good-subarray-sum) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/SELVAx1/LeetCode-Probs/tree/master/0767-reorganize-string) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SELVAx1/LeetCode-Probs/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thirupathiselvaraj0506-git/LeetCode-Probs/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/SELVAx1/LeetCode-Probs/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
